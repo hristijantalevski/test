@@ -64,7 +64,7 @@ Highlights: `r rmarkdown::metadata$highlights`
 
 # Introduction
 
-Hristijan Talevski imase predavanje na
+```Hristijan Talevski imase predavanje na```
 
 Here is a citation [@Marwick2017]
 

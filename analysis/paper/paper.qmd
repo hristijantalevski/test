@@ -1,17 +1,14 @@
 ---
 title: "My Great TITLE - BEST"
 author:
-<<<<<<< HEAD
-  - Petr Pajdla:
-=======
   - Hristijan Talevski:
->>>>>>> 176bbb768a1ff4cba5ae0da64434f64337175edc
       correspondence: "yes"
       email: janedoe@fosg.org
       orcid: 0000-0003-1689-0557
       institute:
         - fosg
         - fop
+  - Petr Pajdla:
   - John Q. Doe:
       institute: fosg
       orcid: 0000-0003-1689-0558

@@ -8,6 +8,7 @@ author:
       institute:
         - fosg
         - fop
+  - Petr Pajdla:
   - John Q. Doe:
       institute: fosg
       orcid: 0000-0003-1689-0558

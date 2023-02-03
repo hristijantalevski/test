@@ -1,5 +1,5 @@
 ---
-title: "Title Goes Here"
+title: "My Great TITLE"
 author:
   - Jane Doe:
       correspondence: "yes"

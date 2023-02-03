@@ -64,6 +64,8 @@ Highlights: `r rmarkdown::metadata$highlights`
 
 # Introduction
 
+Hristijan Talevski imase predavanje na
+
 Here is a citation [@Marwick2017]
 
 Here is an example @srbinovski1979

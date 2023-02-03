@@ -1,5 +1,5 @@
 ---
-title: "My Great TITLE"
+title: "My Great TITLE - BEST"
 author:
   - Jane Doe:
       correspondence: "yes"
